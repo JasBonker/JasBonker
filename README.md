@@ -1,5 +1,1 @@
 - 👋 Hi, I’m @JasBonker
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Powershell
-- 💞️ -
-- 📫 -
