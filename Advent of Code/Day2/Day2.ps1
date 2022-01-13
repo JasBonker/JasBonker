@@ -79,11 +79,11 @@ $horizontal = 0
 $depth      = 0
 
 #Initializing directional variables:
-$forward = @()
+#$forward = @()
+#$down = @()
+#$up = @()
 $forwardInterval = 0
 $aim = 0
-$down = @()
-$up = @()
 
 #Importing the input values:
 $plannedroute = get-content -Path '.\input.txt'
@@ -111,5 +111,3 @@ $forwardInterval = 0
 #Calculating 'finalposition'
 $Result = $horizontal * $depth
 $Result
-
-hallo testtesttest branch2
